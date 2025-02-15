@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello, World! I'm Danielle Beagle
 
-<!--
-**danielle-beagle/danielle-beagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Navy Veteran | Data Science Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🎓 Currently studying Business Analytics with R & Python at UTD
+💡 Passionate about data science, automation, and process optimization
+📊 Learning Python, SQL, R, and machine learning concepts
+⚙️ Exploring Visual Studio Code, MySQL, and statistical modeling
+🛠️ Tech Stack
+Programming: Python 🐍 | R 📊 | SQL 🗃️
+Tools: VS Code | RStudio | MySQL Workbench | Excel
+Concepts: Data Wrangling | Machine Learning | Statistical Analysis | Business Intelligence
+💼 www.linkedin.com/in/daniellebeagle
