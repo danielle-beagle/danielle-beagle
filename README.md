@@ -1,13 +1,24 @@
-Hello, World! I'm Danielle Beagle
+# Hello, World! I'm Danielle Beagle
 
-Navy Veteran | Data Science Enthusiast
+Navy Veteran | Business Analytics & AI Graduate Student  
 
-Currently studying Business Analytics with R & Python at UTD
-Passionate about data science, automation, and process optimization
-Learning Python, SQL, R, and machine learning concepts
-Exploring Visual Studio Code, MySQL, and statistical modeling
-Tech Stack
-Programming: Python | R | SQL 
-Tools: VS Code | RStudio | MySQL Workbench | Excel
-Concepts: Data Wrangling | Machine Learning | Statistical Analysis | Business Intelligence
-www.linkedin.com/in/daniellebeagle
+I’m currently pursuing a Master’s in Business Analytics & Artificial Intelligence at UT Dallas.  
+I focus on using data to improve processes, automate workflows, and support data-driven decision-making.
+
+## About Me
+- Interested in data science, automation, and process optimization  
+- Experience building dashboards and improving reporting workflows  
+- Comfortable working with structured data, analysis, and modeling  
+
+## Tech Stack
+**Programming:** Python | R | SQL  
+**Tools:** VS Code | RStudio | MySQL Workbench | Excel  
+**Concepts:** Data Wrangling | Statistical Analysis | Machine Learning | Business Intelligence  
+
+## Currently Learning
+- Machine learning model development  
+- Data visualization and storytelling  
+- Workflow automation and data pipelines  
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/daniellebeagle
